@@ -1,0 +1,20 @@
+# Shared dependencies for data construction and Translation.
+# Install a mutually compatible torch/torchvision build for your CPU/CUDA first.
+
+# Data construction
+numpy>=1.23,<2
+Pillow>=9
+opencv-python>=4.8,<4.12
+scikit-image>=0.20
+scipy>=1.9
+matplotlib>=3.6
+SimpleITK>=2.0
+imageio>=2.9
+tqdm>=4.60
+
+# Translation
+torch>=1.13
+torchvision>=0.14
+dominate>=2.4
+visdom>=0.1.8.8
+wandb>=0.15
