@@ -31,6 +31,7 @@ venv/
 registration/data/
 registration/output/
 translation/checkpoints/
+translation/datasets/
 translation/results/
 translation/stitch/stitch_dataset/
 wandb/
