@@ -1,6 +1,6 @@
 # Deep-DRUM
 
-Deep-DRUM is a hybrid physical-computational framework for rapid intraoperative histopathology of thick tissues. It converts label-free DRUM images into high-fidelity virtual H&E images. Because H&E sectioning destroys the original tissue volume and prevents pixel-wise ground-truth pairing, Deep-DRUM determines a 20 μm effective DRUM imaging depth in brain tissue and establishes physical DRUM/H&E pairing from the same thick specimen over the same axial range. Hierarchical registration then provides cellular-level alignment, followed by deep-learning virtual H&E staining.
+Deep-DRUM is a hybrid physical-computational framework for rapid intraoperative histopathology of thick tissues. It converts label-free DRUM images into high-fidelity virtual H&E images. 
 
 ## Installation
 
